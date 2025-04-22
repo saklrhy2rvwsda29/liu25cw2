@@ -1,1 +1,2 @@
 # liu25cw2
+"""The code is commented. Tip: You need to install Python's pandas, numpy, plotly, scipy packages before running the code. If you use Visual Studio Code to run the code, please make sure you have installed the Python Third-Party Libraries as follows: From the Menu, click Terminal in the Menu, and then select New Terminal. In the Terminal, you can install the Libraries using pip, which is the Python package management tool. For example, if you want to install the pandas package, you can type the following command: pip install pandas"""
